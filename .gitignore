@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+scanner/**/__pycache__/
+data/scan_results/*.json
+scanner/webshell_scanner/data/scan_results/*.json
